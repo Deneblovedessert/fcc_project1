@@ -1,0 +1,30 @@
+header {
+  position: fixed;
+  display: flex !important;
+  z-index: 1;
+  width: 100%;
+  height: 7%;
+  justify-content: space-between;
+  background: #fff;
+  border-bottom: 2px solid #f4f4f4;
+  margin-bottom: 20px;
+}
+
+.header-top {
+  margin-left: 5%;
+  height: 100%;
+  width: 10%;
+}
+
+header .github-logo {
+  height: 90%;
+}
+
+header .header-logo {
+  width: 5%;
+  margin-right: 5%;
+}
+
+.jumbotron {
+  margin-top: 8%;
+}
